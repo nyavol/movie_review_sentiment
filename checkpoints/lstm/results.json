@@ -1,0 +1,9 @@
+{
+  "lstm_imdb": {
+    "val_acc": 0.8914,
+    "test_acc": 0.8693,
+    "test_macro_f1": 0.8693,
+    "params": 4170114,
+    "epochs": 40
+  }
+}

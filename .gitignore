@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.idea/
+checkpoints/lstm/lstm_imdb.pt
+checkpoints/transformer/transformer_imdb.pt

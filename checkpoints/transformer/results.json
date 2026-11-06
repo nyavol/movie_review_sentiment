@@ -1,0 +1,9 @@
+{
+  "transformer_imdb": {
+    "val_acc": 0.8544,
+    "test_acc": 0.8432,
+    "test_macro_f1": 0.8432,
+    "params": 4105474,
+    "epochs": 7
+  }
+}
